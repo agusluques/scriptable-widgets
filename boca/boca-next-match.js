@@ -1,5 +1,3 @@
-
-
 var url = "http://www.aquehorajuegaboca.com.ar/proximos"
 var req = new Request(url)
 var res = await req.load()
